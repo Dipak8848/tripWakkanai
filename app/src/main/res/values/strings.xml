@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">visit wakkanai</string>
+    <string name="title_activity_museums">Map</string>
+    <string name="title_activity_historical__places">Map</string>
+    <string name="title_activity_parks">Map</string>
+    <string name="title_activity_island__beachs">Map</string>
+    <string name="title_activity_religions">Map</string>
+    <string name="title_activity_bazaar__markets">Map</string>
+    <string name="title_activity_my_locations">Map</string>
+    <string name="title_activity_my_favourites">Map</string>
+    <string name="title_activity_squares">Map</string>
+    <string name="title_activity_my__locations">Map</string>
+    <string name="title_activity_my__favourites">Map</string>
+    <string name="title_activity_bottom_nav">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_myfavourites">favorite</string>
+    <string name="title_mylocations">My Locations</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_historical">historic places</string>
+    <string name="title_museum">Museum</string>
+    <string name="title_religions">Religious places</string>
+    <string name="title_parks">Parks</string>
+    <string name="title_squares">Monuments</string>
+    <string name="title_markets">Markets</string>
+    <string name="title_island">Nearby Islands</string>
+    <string name="title_foods">Foods</string>
+    <string name="first_slide_titel">Explore Wakkanai</string>
+    <string name="second_slide_titel">Find Destination</string>
+    <string name="third_slide_titel">Get Information</string>
+    <string name="fourth_slide_titel">Add Favourite List</string>
+    <string name="fifth_slide_titel">Get Suggestions</string>
+
+    <string name="first_slide_desc">You can see the touristic places in wakkanai according to their categories.
+        You can also discover the dishes that should be eaten in wakkanai.</string>
+    <string name="second_slide_desc">You can find sightseeing places on the map, be directed to Google Maps
+        to get directions and even add your special locations such as your hotel and your airport to the map.</string>
+    <string name="third_slide_desc">You can get information about tha place you are interested in.
+        Just click on the google icon for this.</string>
+    <string name="fourth_slide_desc">You can collect a place you like or interest in a separate list by clicking the heart icon.
+        So you can reach them faster.</string>
+    <string name="fifth_slide_desc">You can get suggestions for events according to the weather of wakkanai.</string>
+
+    <string name="next_btn">Next</string>
+</resources>
